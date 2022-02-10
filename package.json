@@ -1,0 +1,20 @@
+{
+  "name": "odinbot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hollow Nexus Studios",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.8.0",
+    "@distube/soundcloud": "^1.1.0",
+    "@distube/spotify": "^1.2.1",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.1-1",
+    "ffmpeg-static": "^4.4.1"
+  }
+}
